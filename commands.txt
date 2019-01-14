@@ -1,1 +1,2 @@
 git init - iniatialise a git repo
+git add - stages changes
